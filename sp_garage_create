@@ -1,0 +1,72 @@
+{
+        "garage_detail": {
+        	"is_owner":"1",
+            "name": "Vikram",
+            "store_image1": "",
+            "store_image2": "",
+            "store_image3": "",
+            "contact_person": "Ravi",
+            "lat": "28.6104712",
+            "lon": "77.3841085",
+            "location": "",
+            "state": "Delhi",
+            "city": "New Delhi",
+            "country_code": "+91",
+            "contact_num": "8787524696",
+            "tax_registration_num": "123",
+            "tax_registration_date": "2018-05-22T08:51:46Z"
+        },
+        "category_detail": [
+            {
+                "type": "Category1",
+                "icon": ""
+            }
+        ],
+        "subcategory_detail": [
+            {
+                "subtype": "SubCategory1",
+                "icon": ""
+            },
+            {
+                "subtype": "SubCategory2",
+                "icon": ""
+            }
+        ],
+        "schedule_detail": [
+            {
+                "day": "1",
+                "start_time": "09:00",
+                "end_time": "14:00"
+            },
+            {
+                "day": "2",
+                "start_time": "09:00",
+                "end_time": "14:00"
+            },
+            {
+                "day": "3",
+                "start_time": "09:00",
+                "end_time": "17:30"
+            },
+            {
+                "day": "4",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            },
+            {
+                "day": "5",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            },
+            {
+                "day": "6",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            },
+            {
+                "day": "7",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            }
+        ]
+    }

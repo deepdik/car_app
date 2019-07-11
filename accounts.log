@@ -1,0 +1,889 @@
+user registration api called
+<QueryDict: {'country_code': ['91'], 'name': ['rajiv'], 'social_id': [''], 'device_type': ['1'], 'user_type': ['1'], 'email': ['rajiv@gmail.com'], 'device_token': ['a1231'], 'login_type': ['1'], 'password': ['12345678'], 'mobile': ['1111111112']}>
+user registration api called
+<QueryDict: {'country_code': ['91'], 'password': ['12345678'], 'name': ['rajiv'], 'social_id': [''], 'mobile': ['1111111112'], 'device_token': ['a1231'], 'device_type': ['1'], 'user_type': ['1'], 'email': ['rajiv@gmail.com'], 'login_type': ['1']}>
+user registration api called
+<QueryDict: {'mobile': ['1111111112'], 'social_id': [''], 'login_type': ['1'], 'device_token': ['a1231'], 'country_code': ['91'], 'name': ['rajiv'], 'user_type': ['1'], 'device_type': ['1'], 'password': ['12345678'], 'email': ['rajiv@gmail.com']}>
+user registration api called
+<QueryDict: {'name': ['rajiv'], 'country_code': ['91'], 'device_token': ['a1231'], 'email': ['rajiv@gmail.com'], 'mobile': ['1111111112'], 'password': ['12345678'], 'device_type': ['1'], 'login_type': ['1'], 'social_id': [''], 'user_type': ['1']}>
+user registration api called
+<QueryDict: {'name': ['rajiv'], 'country_code': ['91'], 'device_token': ['a1231'], 'email': ['rajiv@gmail.com'], 'mobile': ['1111111112'], 'password': ['12345678'], 'device_type': ['1'], 'login_type': ['1'], 'social_id': [''], 'user_type': ['1']}>
+user registration api called
+<QueryDict: {'user_type': ['1'], 'social_id': [''], 'login_type': ['1'], 'device_type': ['1'], 'country_code': ['91'], 'password': ['12345678'], 'device_token': ['a1231'], 'mobile': ['1111111112'], 'name': ['rajiv'], 'email': ['rajiv@gmail.com']}>
+user registration api called
+<QueryDict: {'password': ['12345678'], 'user_type': ['1'], 'country_code': ['91'], 'device_token': ['a1231'], 'device_type': ['1'], 'mobile': ['8787632296'], 'name': ['ss'], 'login_type': ['1'], 'email': ['ss@gmail.com'], 'social_id': ['']}>
+user registration api called
+<QueryDict: {'password': ['12345678'], 'user_type': ['1'], 'country_code': ['91'], 'device_token': ['a1231'], 'device_type': ['1'], 'mobile': ['8787632296'], 'name': ['ss'], 'login_type': ['1'], 'email': ['ss@gmail.com'], 'social_id': ['']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'email': ['sukamal.sinha@fluper.in'], 'password': ['12345678'], 'user_type': ['1'], 'mobile': ['8787632298'], 'country_code': ['91'], 'social_id': [''], 'device_type': ['1'], 'device_token': ['a1231'], 'name': ['ssn']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'email': ['sukamal.sinha@gmail.com'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'email': ['sukamal.sinha@fluper.in'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'email': ['sukamal.sinha@fluper.in'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'email': ['sukamal.sinha@fluper.in'], 'password': ['@$$#Oole'], 'user_type': ['1'], 'device_type': ['1']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['sukamal.sinha@gmail.com'], 'user_type': ['1'], 'device_token': ['1'], 'password': ['TempUser@123']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['sukamal.sinha@fluper.in'], 'user_type': ['1'], 'device_token': ['1'], 'password': ['TempUser@123']}>
+otp send post called
+<QueryDict: {'phonenumber': ['8787632296'], 'countrycode': ['91']}>
+otp verify post called
+<QueryDict: {'phonenumber': ['8787632296'], 'verification_code': ['2825'], 'countrycode': ['91']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'social_id': [''], 'login_type': ['1'], 'name': ['rajiv'], 'device_type': ['1'], 'user_type': ['1'], 'country_code': ['91'], 'mobile': ['1111111112'], 'email': ['rajiv@gmail.com'], 'password': ['12345678']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'social_id': [''], 'login_type': ['1'], 'name': ['rajiv'], 'device_type': ['1'], 'user_type': ['1'], 'country_code': ['91'], 'mobile': ['1111111118'], 'email': ['rajiv1@gmail.com'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['rajiv1@gmail.com'], 'password': ['12345678'], 'device_token': ['1']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['sukamal.sinha@fluper.in'], 'password': ['TempUser@123'], 'device_token': ['1']}>
+otp send post called
+<QueryDict: {'phonenumber': ['8791436031'], 'countrycode': ['91']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'country_code': ['91'], 'name': ['rajiv'], 'social_id': [''], 'user_type': ['1'], 'mobile': ['1111111117'], 'device_type': ['1'], 'password': ['12345678'], 'email': ['rajiv7@gmail.com'], 'login_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'password': ['12345678'], 'email': ['rajiv7@gmail.com'], 'user_type': ['1'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'country_code': ['91'], 'name': ['rajiv'], 'social_id': ['1234'], 'user_type': ['1'], 'mobile': ['1111111144'], 'device_type': ['1'], 'password': ['12345678'], 'email': ['rajiv78@gmail.com'], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'country_code': ['91'], 'name': ['rajiv'], 'social_id': ['1234'], 'user_type': ['1'], 'mobile': ['1111111144'], 'device_type': ['1'], 'password': ['12345678'], 'email': ['rajiv78@gmail.com'], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'country_code': ['91'], 'name': ['rajiv'], 'social_id': ['1234'], 'user_type': ['1'], 'mobile': ['1111111144'], 'device_type': ['1'], 'password': ['12345678'], 'email': ['rajiv78@gmail.com'], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'country_code': ['91'], 'name': ['rajiv'], 'social_id': [''], 'user_type': ['1'], 'mobile': ['1111111144'], 'device_type': ['1'], 'password': ['12345678'], 'email': ['rajiv78@gmail.com'], 'login_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'email': ['rajiv7@gmail.com'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'name': ['rajiv'], 'device_type': ['1'], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231'], 'email': [''], 'password': [''], 'mobile': [''], 'country_code': [''], 'social_id': ['231']}>
+user registration api called
+<QueryDict: {'name': ['rajiv'], 'device_type': ['1'], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231'], 'email': [''], 'password': [''], 'mobile': [''], 'country_code': ['91'], 'social_id': ['231']}>
+user registration api called
+<QueryDict: {'name': ['rajiv'], 'device_type': ['1'], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231'], 'email': [''], 'password': [''], 'mobile': ['11234567'], 'country_code': ['91'], 'social_id': ['231']}>
+user registration api called
+<QueryDict: {'name': ['rajiv'], 'device_type': ['1'], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231'], 'email': ['fgdgd@gfdfg.com'], 'password': [''], 'mobile': ['11234567'], 'country_code': ['91'], 'social_id': ['231']}>
+user registration api called
+<QueryDict: {'password': ['12345678'], 'name': ['rajiva'], 'device_token': ['a1231'], 'user_type': ['1'], 'country_code': ['91'], 'email': ['rajiva@gmail.com'], 'login_type': ['1'], 'device_type': ['1'], 'mobile': ['12345678'], 'social_id': ['']}>
+user registration api called
+<QueryDict: {'password': ['12345678'], 'name': ['rajiva'], 'device_token': ['a1231'], 'user_type': ['1'], 'country_code': ['91'], 'email': ['rajiva@gmail.com'], 'login_type': ['1'], 'device_type': ['1'], 'mobile': ['0012345678'], 'social_id': ['']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'email': ['rajiva@gmail.com'], 'device_type': ['1'], 'user_type': ['1'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'email': ['rajiva@gmail.com'], 'password': ['12345678'], 'user_type': ['1'], 'device_token': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'email': ['rajiva@gmail.com'], 'password': ['12345678'], 'device_type': ['1'], 'device_token': ['1'], 'user_type': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'device_type': ['1'], 'email': ['rajiva@gmail.com'], 'device_token': ['1'], 'user_type': ['1']}>
+user registration api called
+<QueryDict: {'social_id': ['213213'], 'device_type': ['1'], 'email': [''], 'name': ['rajivaa'], 'login_type': ['2'], 'country_code': [''], 'mobile': [''], 'user_type': ['1'], 'device_token': ['a1231'], 'password': ['']}>
+user registration api called
+<QueryDict: {'social_id': ['213213'], 'name': ['rajivaa'], 'mobile': [''], 'country_code': [''], 'device_token': ['a1231'], 'user_type': ['1'], 'login_type': ['2'], 'email': [''], 'password': [''], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'social_id': ['213213'], 'name': ['rajivaa'], 'mobile': [''], 'country_code': [''], 'device_token': ['a1231'], 'user_type': ['1'], 'login_type': ['1'], 'email': [''], 'password': [''], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'social_id': ['213213'], 'name': ['rajivaa'], 'mobile': [''], 'country_code': [''], 'device_token': ['a1231'], 'user_type': ['1'], 'login_type': ['2'], 'email': [''], 'password': [''], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'social_id': ['213213'], 'country_code': [''], 'email': [''], 'device_token': ['a1231'], 'name': ['rajivaa'], 'mobile': [''], 'device_type': ['1'], 'user_type': ['1'], 'password': [''], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'password': [''], 'country_code': [''], 'email': [''], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['a1231'], 'mobile': [''], 'social_id': ['213213'], 'name': ['rajivaa'], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'password': [''], 'country_code': [''], 'email': [''], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['a1231'], 'mobile': [''], 'social_id': ['213213'], 'name': ['rajivaa'], 'login_type': ['2']}>
+otp verify post called
+<QueryDict: {'phonenumber': ['8787632296'], 'countrycode': ['91'], 'verification_code': ['1234']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'email': [''], 'password': [''], 'country_code': [''], 'login_type': ['2'], 'social_id': ['213213'], 'name': ['rajivaa'], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'social_id': ['213213'], 'device_token': ['a1231'], 'user_type': ['1'], 'country_code': [''], 'mobile': [''], 'login_type': ['2'], 'password': [''], 'name': ['rajivaa'], 'device_type': ['1'], 'email': ['']}>
+user registration api called
+<QueryDict: {'social_id': ['213213'], 'device_token': ['a1231'], 'user_type': ['1'], 'country_code': [''], 'mobile': [''], 'login_type': ['2'], 'password': [''], 'name': ['rajivaaa'], 'device_type': ['1'], 'email': ['']}>
+user registration api called
+<QueryDict: {'social_id': ['2132131'], 'device_token': ['a1231'], 'user_type': ['1'], 'country_code': [''], 'mobile': [''], 'login_type': ['2'], 'password': [''], 'name': ['rajivaaa'], 'device_type': ['1'], 'email': ['']}>
+user registration api called and exception cought - 
+{'social_id': '2132131', 'device_token': 'a1231', 'email': '', 'user_type': '1', 'country_code': '', 'mobile': '', 'name': 'rajivaaa', 'device_type': '1', 'login_type': '2'}
+User login post called
+<QueryDict: {'password': ['12345678'], 'device_token': ['1'], 'email': ['amit@gmail.com'], 'device_type': ['1'], 'user_type': ['1']}>
+Change password put called
+<QueryDict: {'oldPassword': ['12345678'], 'newPassword': ['87654321'], 'confPassword': ['87654321']}>
+Change password get called
+<QueryDict: {'oldPassword': ['12345678'], 'newPassword': ['87654321'], 'confPassword': ['87654321']}>
+user registration api called
+<QueryDict: {'password': [''], 'login_type': ['2'], 'mobile': [''], 'email': [''], 'name': ['rajiv5'], 'country_code': [''], 'device_token': ['a1231'], 'device_type': ['1'], 'user_type': ['1'], 'social_id': ['']}>
+user registration api called
+<QueryDict: {'password': [''], 'login_type': ['2'], 'mobile': [''], 'email': [''], 'name': ['rajiv5'], 'country_code': [''], 'device_token': ['a1231'], 'device_type': ['1'], 'user_type': ['1'], 'social_id': ['1111']}>
+user registration api called and exception cought - 
+{'login_type': '2', 'mobile': '', 'email': '', 'name': 'rajiv5', 'country_code': '', 'device_token': 'a1231', 'device_type': '1', 'user_type': '1', 'social_id': '1111'}
+user registration api called
+<QueryDict: {'password': [''], 'login_type': ['2'], 'mobile': [''], 'email': [''], 'name': ['rajiv5'], 'country_code': [''], 'device_token': ['a1231'], 'device_type': ['1'], 'user_type': ['1'], 'social_id': ['1111']}>
+user registration api called and exception cought - 
+{'login_type': '2', 'mobile': '', 'email': '', 'name': 'rajiv5', 'country_code': '', 'device_token': 'a1231', 'device_type': '1', 'user_type': '1', 'social_id': '1111'}
+user registration api called
+<QueryDict: {'password': [''], 'login_type': ['2'], 'mobile': [''], 'email': [''], 'name': ['rajiv5'], 'country_code': [''], 'device_token': ['a1231'], 'device_type': ['1'], 'user_type': ['1'], 'social_id': ['1111']}>
+user registration api called and exception cought - 
+{'login_type': '2', 'mobile': '', 'email': '', 'name': 'rajiv5', 'country_code': '', 'device_token': 'a1231', 'device_type': '1', 'user_type': '1', 'social_id': '1111'}
+user registration api called
+<QueryDict: {'name': ['rajiv5'], 'email': [''], 'country_code': [''], 'user_type': ['1'], 'device_token': ['a1231'], 'login_type': ['2'], 'mobile': [''], 'password': [''], 'social_id': ['1111'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'name': ['rajiv55'], 'email': [''], 'country_code': [''], 'user_type': ['1'], 'device_token': ['a1231'], 'login_type': ['2'], 'mobile': [''], 'password': [''], 'social_id': ['11115'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'name': ['rajiv99'], 'device_token': ['a1231'], 'social_id': ['111188'], 'email': [''], 'country_code': [''], 'user_type': ['1'], 'mobile': [''], 'password': [''], 'device_type': ['1'], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'email': [''], 'user_type': ['1'], 'social_id': ['111188'], 'device_type': ['1'], 'mobile': [''], 'password': [''], 'login_type': ['2'], 'country_code': [''], 'device_token': ['a1231'], 'name': ['rajiv99']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'email': [''], 'device_token': ['a1231'], 'name': ['rajiv99'], 'social_id': ['111188'], 'user_type': ['1'], 'device_type': ['1'], 'mobile': [''], 'login_type': ['2'], 'password': ['']}>
+user registration api called
+<QueryDict: {'name': ['rajiv99'], 'device_type': ['1'], 'social_id': ['111188'], 'device_token': ['a1231'], 'country_code': [''], 'mobile': [''], 'login_type': ['2'], 'user_type': ['1'], 'email': [''], 'password': ['']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'password': [''], 'email': [''], 'name': ['rajiv99'], 'social_id': ['111188'], 'device_type': ['1'], 'country_code': [''], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'password': [''], 'email': [''], 'name': ['rajiv999'], 'social_id': ['1111888'], 'device_type': ['1'], 'country_code': [''], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'password': [''], 'email': [''], 'name': ['rajiv9999'], 'social_id': ['11118888'], 'device_type': ['1'], 'country_code': ['91'], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': ['55555555'], 'password': [''], 'email': [''], 'name': ['rajiv9999'], 'social_id': ['11118888'], 'device_type': ['1'], 'country_code': ['91'], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': ['55555555'], 'password': [''], 'email': [''], 'name': ['rajiv99999'], 'social_id': ['111188888'], 'device_type': ['1'], 'country_code': ['91'], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'password': [''], 'email': ['asd@gmail.com'], 'name': ['rajiv99999'], 'social_id': ['111188888'], 'device_type': ['1'], 'country_code': [''], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'password': [''], 'email': [''], 'name': ['rajiv99999'], 'social_id': ['111188888'], 'device_type': ['1'], 'country_code': [''], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'password': [''], 'email': ['www@gmail.com'], 'name': ['rajiv88'], 'social_id': ['111199'], 'device_type': ['1'], 'country_code': [''], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'password': [''], 'email': ['www@gmail.com'], 'name': ['rajiv88'], 'social_id': ['111199'], 'device_type': ['1'], 'country_code': [''], 'login_type': ['2'], 'user_type': ['1'], 'device_token': ['a1231']}>
+user registration api called
+<QueryDict: {'login_type': ['2'], 'social_id': ['111199'], 'device_token': ['a1231'], 'device_type': ['1'], 'country_code': [''], 'password': [''], 'name': ['rajiv88'], 'mobile': [''], 'email': ['www@gmail.com'], 'user_type': ['1']}>
+user registration api called
+<QueryDict: {'device_type': ['1'], 'email': ['www@gmail.com'], 'device_token': ['a1231'], 'country_code': [''], 'mobile': [''], 'login_type': ['2'], 'social_id': ['111199'], 'name': ['rajiv88'], 'user_type': ['1'], 'password': ['']}>
+user registration api called
+<QueryDict: {'device_type': ['1'], 'email': ['www@gmail.com'], 'device_token': ['a1231'], 'country_code': [''], 'mobile': [''], 'login_type': ['2'], 'social_id': ['111199'], 'name': ['rajiv88'], 'user_type': ['1'], 'password': ['']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'user_type': ['1'], 'mobile': ['1111111112'], 'password': ['12345678'], 'social_id': [''], 'country_code': ['91'], 'name': ['rajiv'], 'email': ['rajiv@gmail.com'], 'device_type': ['1'], 'login_type': ['1']}>
+user registration api called
+<QueryDict: {'password': ['12345678'], 'device_token': ['a1231'], 'name': ['rajiv'], 'email': ['rajiv@gmail.co'], 'user_type': ['1'], 'country_code': ['91'], 'login_type': ['1'], 'device_type': ['1'], 'social_id': [''], 'mobile': ['1111111777']}>
+user registration api called
+<QueryDict: {'password': ['12345678'], 'device_token': ['a1231'], 'name': ['rajiv'], 'email': ['rajiv@gmail'], 'user_type': ['1'], 'country_code': ['91'], 'login_type': ['1'], 'device_type': ['1'], 'social_id': [''], 'mobile': ['1111111778']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'mobile': ['1111111778'], 'device_type': ['1'], 'device_token': ['a1231'], 'password': ['12345678'], 'user_type': ['1'], 'name': ['rajiv'], 'country_code': ['91'], 'social_id': [''], 'email': ['rajiv@gmail']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'mobile': ['1111111778'], 'device_type': ['1'], 'device_token': ['a1231'], 'password': ['12345678'], 'user_type': ['1'], 'name': ['rajiv'], 'country_code': ['91'], 'social_id': [''], 'email': ['rajiv@gmail.g']}>
+user registration api called
+<QueryDict: {'password': [''], 'device_type': ['1'], 'country_code': [''], 'device_token': ['a1231'], 'name': ['rajiv5'], 'login_type': ['2'], 'social_id': ['5478'], 'email': [''], 'user_type': ['1'], 'mobile': ['']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'social_id': ['5478'], 'device_type': ['1'], 'country_code': [''], 'name': ['rajiv5'], 'user_type': ['1'], 'email': [''], 'password': [''], 'login_type': ['2'], 'device_token': ['a1231']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['ss@gmail.com'], 'password': ['12345678'], 'device_token': ['1']}>
+user registration api called
+<QueryDict: {'device_type': ['1'], 'device_token': ['a1231'], 'name': ['rajiv58'], 'user_type': ['1'], 'mobile': ['1111254781'], 'social_id': [''], 'email': ['rajiv58@gmail.com'], 'login_type': ['1'], 'password': ['12345678'], 'country_code': ['91']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'email': ['rajiv58@gmail.com'], 'user_type': ['1'], 'password': ['12345678'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'country_code': ['91'], 'device_type': ['1'], 'mobile': ['1111254781'], 'device_token': ['a1231'], 'social_id': [''], 'password': ['12345678'], 'email': ['rajiv58@gmail.com'], 'user_type': ['1'], 'login_type': ['1'], 'name': ['rajiv58']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'device_type': ['1'], 'mobile': [''], 'device_token': ['a1231'], 'social_id': ['5547'], 'password': [''], 'email': [''], 'user_type': ['1'], 'login_type': ['2'], 'name': ['qqwww']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'device_type': ['1'], 'mobile': [''], 'device_token': ['a1231'], 'social_id': ['5547'], 'password': [''], 'email': [''], 'user_type': ['1'], 'login_type': ['2'], 'name': ['qqwww']}>
+user registration api called
+<QueryDict: {'social_id': ['5547'], 'email': [''], 'name': ['qqwww'], 'mobile': [''], 'password': [''], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['a1231'], 'country_code': [''], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'login_type': ['2'], 'device_token': ['a1231'], 'name': ['qqwww'], 'user_type': ['1'], 'mobile': [''], 'social_id': ['5547'], 'email': [''], 'password': [''], 'device_type': ['1'], 'country_code': ['']}>
+user registration api called
+<QueryDict: {'password': [''], 'social_id': ['5547'], 'login_type': ['2'], 'user_type': ['1'], 'country_code': [''], 'device_type': ['1'], 'mobile': [''], 'device_token': ['a1231'], 'email': [''], 'name': ['qqwww']}>
+user registration api called
+<QueryDict: {'login_type': ['2'], 'user_type': ['1'], 'name': ['qqwww'], 'device_type': ['1'], 'social_id': ['5547'], 'country_code': [''], 'device_token': ['a1231'], 'password': [''], 'email': [''], 'mobile': ['']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'password': [''], 'country_code': [''], 'mobile': [''], 'name': ['qqwww'], 'device_type': ['1'], 'social_id': ['5547'], 'user_type': ['1'], 'email': [''], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'password': [''], 'country_code': [''], 'mobile': [''], 'name': ['qqwwwq'], 'device_type': ['1'], 'social_id': ['55471'], 'user_type': ['1'], 'email': [''], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'device_token': ['a1231'], 'password': [''], 'country_code': [''], 'mobile': [''], 'name': ['qqwwwq'], 'device_type': ['1'], 'social_id': ['55471'], 'user_type': ['1'], 'email': [''], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'device_token': ['a1231'], 'email': ['dinu@gmail.com'], 'social_id': [''], 'device_type': ['1'], 'password': ['12345678'], 'name': ['dinu'], 'user_type': ['2'], 'country_code': ['91'], 'mobile': ['1111111754'], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'device_token': ['a1231'], 'email': ['dinu@gmail.com'], 'social_id': [''], 'device_type': ['1'], 'password': ['12345678'], 'name': ['dinu'], 'user_type': ['1'], 'country_code': ['91'], 'mobile': ['1111111754'], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'device_token': ['a1231'], 'email': ['dinu1@gmail.com'], 'social_id': [''], 'device_type': ['1'], 'password': ['12345678'], 'name': ['dinu1'], 'user_type': ['2'], 'country_code': ['91'], 'mobile': ['1111111751'], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'device_token': ['a1231'], 'email': ['dinu1@gmail.com'], 'social_id': [''], 'device_type': ['1'], 'password': ['12345678'], 'name': ['dinu1'], 'user_type': ['2'], 'country_code': ['91'], 'mobile': ['1111111751'], 'garage_name': ['dinu garage']}>
+user registration api called
+<QueryDict: {'login_type': ['2'], 'device_token': ['a1231'], 'email': [''], 'social_id': ['12212'], 'device_type': ['1'], 'password': [''], 'name': ['dinu2'], 'user_type': ['2'], 'country_code': [''], 'mobile': [''], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'user_type': ['2'], 'email': [''], 'device_type': ['1'], 'login_type': ['2'], 'country_code': [''], 'device_token': ['a1231'], 'password': [''], 'garage_name': [''], 'name': ['dinu2'], 'social_id': ['12212']}>
+user registration api called
+<QueryDict: {'mobile': ['1222222457'], 'user_type': ['2'], 'email': ['dinu3@gmail.com'], 'device_type': ['1'], 'login_type': ['1'], 'country_code': ['91'], 'device_token': ['a1231'], 'password': ['12345678'], 'garage_name': ['dinu garage'], 'name': ['dinu3'], 'social_id': ['12212']}>
+user registration api called
+<QueryDict: {'mobile': ['1222222457'], 'user_type': ['2'], 'email': ['dinu3@gmail.com'], 'device_type': ['1'], 'login_type': ['1'], 'country_code': ['91'], 'device_token': ['a1231'], 'password': ['12345678'], 'garage_name': ['dinu garage3'], 'name': ['dinu3'], 'social_id': ['12212']}>
+user registration api called
+<QueryDict: {'name': ['dinu3'], 'device_token': ['a1231'], 'garage_name': ['dinu garage3'], 'country_code': ['91'], 'device_type': ['1'], 'password': ['12345678'], 'user_type': ['2'], 'email': ['dinu3@gmail.com'], 'mobile': ['1222222457'], 'social_id': ['12212'], 'login_type': ['1']}>
+user registration api called
+<QueryDict: {'name': ['dinu4'], 'device_token': ['a1231'], 'garage_name': ['dinu garage4'], 'country_code': ['91'], 'device_type': ['1'], 'password': ['12345678'], 'user_type': ['2'], 'email': ['dinu4@gmail.com'], 'mobile': ['1222222458'], 'social_id': [''], 'login_type': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu@gmail.com'], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu1@gmail.com'], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu1@gmail.com'], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu1@gmail.com'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1']}>
+service provider profile get called
+{}
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu2@gmail.com'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu3@gmail.com'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu4@gmail.com'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['dinu1@gmail.com'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1']}>
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+Garage wise offer list get called
+{}
+Garage wise offer list get called
+{}
+User login post called
+<QueryDict: {'user_type': ['2'], 'email': ['vikram@gmail.com'], 'device_token': ['1'], 'device_type': ['1'], 'password': ['12345678']}>
+Garage wise offer list get called
+{}
+Garage wise offer list get called
+{}
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'user_type': ['2'], 'email': ['dinu1@gmail.com'], 'device_token': ['1']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'social_id': [''], 'password': ['12345678'], 'user_type': ['2'], 'email': ['ankit.singh@fluper.in'], 'mobile': ['9716969838'], 'garage_name': ['Fluper Garage'], 'name': ['Ankit'], 'device_token': ['a123b'], 'country_code': ['91'], 'device_type': ['2']}>
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+user registration api called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com'], 'password': ['12345678'], 'mobile': ['1124578451'], 'country_code': ['91'], 'device_type': ['2'], 'name': ['s1'], 'login_type': ['1'], 'social_id': [''], 'device_token': ['a123b'], 'user_type': ['2'], 'garage_name': ['Fluper Garage']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamalsinha.o@gmail.com']}>
+verification post called
+<QueryDict: {'mobile': [''], 'email': ['sukamal.sinha@fluper.in'], 'country_code': ['']}>
+verification post called
+<QueryDict: {'mobile': [''], 'email': ['sukamal.sinha@fluper.in'], 'countrycode': ['']}>
+verification post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in'], 'mobile': [''], 'countrycode': ['']}>
+verification post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in'], 'mobile': [''], 'countrycode': ['']}>
+verification post called
+<QueryDict: {'countrycode': [''], 'mobile': [''], 'email': ['sukamal.sinha@fluper.in']}>
+verification post called
+<QueryDict: {'countrycode': [''], 'mobile': [''], 'email': ['sukamal.sinha@fluper.in']}>
+verification post called
+<QueryDict: {'countrycode': ['91'], 'email': ['sukamal.sinha@fluper.in'], 'mobile': ['8787632296']}>
+verification post called
+<QueryDict: {'countrycode': [''], 'email': ['sukamal.sinha@fluper.in'], 'mobile': ['']}>
+user registration api called
+<QueryDict: {'device_token': ['a123b'], 'login_type': ['1'], 'mobile': ['1212124578'], 'email': ['aa@fluper.in'], 'social_id': [''], 'device_type': ['2'], 'name': ['aa'], 'country_code': ['91'], 'garage_name': ['Fluper Garage'], 'password': ['12345678'], 'user_type': ['2']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_token': ['1'], 'device_type': ['1'], 'email': ['aa@fluper.in'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['aa@fluper.in'], 'device_token': ['1'], 'user_type': ['2'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['aa@fluper.in'], 'device_token': ['1'], 'user_type': ['2'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['aa@fluper.in'], 'device_token': ['1'], 'user_type': ['2'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'email': ['aa@fluper.in'], 'user_type': ['2'], 'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'device_type': ['1'], 'device_token': ['1'], 'email': ['aa@fluper.in'], 'user_type': ['2']}>
+Password reset post called
+<QueryDict: {'email': ['anup@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+user registration api called
+<QueryDict: {'password': ['12345678'], 'email': ['aaa@fluper.in'], 'country_code': ['91'], 'name': ['aaa'], 'user_type': ['1'], 'login_type': ['1'], 'social_id': [''], 'device_type': ['2'], 'mobile': ['1212124571'], 'device_token': ['a123b'], 'garage_name': ['Fluper Garage']}>
+Password reset post called
+<QueryDict: {'email': ['sukamal.sinha@fluper.in']}>
+otp send post called
+<QueryDict: {'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+0
+1
+2
+4
+otp send post called
+<QueryDict: {'phonenumber': ['8787632296'], 'countrycode': ['91']}>
+0
+1
+2
+4
+user registration api called
+<QueryDict: {'garage_name': ['Fluper Garage'], 'mobile': ['1212124512'], 'user_type': ['2'], 'country_code': ['91'], 'name': ['bb'], 'device_token': ['a123b'], 'social_id': [''], 'password': ['12345678'], 'device_type': ['2'], 'login_type': ['1'], 'email': ['bb@fluper.in']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1'], 'email': ['bbb@fluper.in']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1'], 'email': ['bb@fluper.in']}>
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}], 'category_detail': [{'type': 'Category1', 'icon': ''}], 'garage_detail': {'tax_registration_num': '123', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_person': 'Ravi', 'state': 'Delhi', 'country_code': '+91', 'lat': '28.6104712', 'lon': '77.3841085', 'location': '', 'is_owner': '1', 'contact_num': '8787524696', 'city': 'New Delhi', 'store_image': 'Vikram Garage', 'name': 'Vikram'}, 'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}, {'subtype': 'SubCategory2', 'icon': ''}]}
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}], 'category_detail': [{'type': 'Category1', 'icon': ''}], 'garage_detail': {'tax_registration_num': '123', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_person': 'Ravi', 'store_image3': '', 'state': 'Delhi', 'location': '', 'country_code': '+91', 'lat': '28.6104712', 'lon': '77.3841085', 'store_image2': '', 'store_image1': '', 'is_owner': '1', 'contact_num': '8787524696', 'city': 'New Delhi', 'name': 'Vikram'}, 'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}, {'subtype': 'SubCategory2', 'icon': ''}]}
+user registration api called
+<QueryDict: {'garage_name': ['Fluper Garage'], 'device_type': ['2'], 'user_type': ['2'], 'name': ['cc'], 'mobile': ['1212124587'], 'login_type': ['1'], 'email': ['cc@fluper.in'], 'country_code': ['91'], 'social_id': [''], 'password': ['12345678'], 'device_token': ['a123b']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'device_token': ['a123b'], 'name': ['ccc'], 'login_type': ['1'], 'country_code': ['91'], 'device_type': ['2'], 'email': ['ccc@fluper.in'], 'garage_name': ['Fluper Garage'], 'mobile': ['1212124588'], 'password': ['12345678'], 'user_type': ['2']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'garage_name': ['Fluper Garage'], 'social_id': [''], 'password': ['12345678'], 'email': ['c@fluper.in'], 'name': ['c'], 'device_token': ['a123b'], 'mobile': ['1212124544'], 'country_code': ['91'], 'user_type': ['2'], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'garage_name': ['Fluper Garage'], 'password': ['12345678'], 'mobile': ['1212124533'], 'social_id': [''], 'device_token': ['a123b'], 'email': ['d@fluper.in'], 'login_type': ['1'], 'country_code': ['91'], 'device_type': ['2'], 'user_type': ['2'], 'name': ['d']}>
+user registration api called
+<QueryDict: {'garage_name': [''], 'password': ['123456ab'], 'mobile': ['1212124533'], 'social_id': [''], 'device_token': ['a123b'], 'email': ['d@fluper.in'], 'login_type': ['1'], 'country_code': ['91'], 'device_type': ['2'], 'user_type': ['2'], 'name': ['d']}>
+user registration api called
+<QueryDict: {'user_type': ['2'], 'country_code': ['91'], 'login_type': ['1'], 'mobile': ['1212124533'], 'password': ['123456ab'], 'garage_name': [''], 'name': ['d'], 'email': ['d@fluper.in'], 'device_token': ['a123b'], 'social_id': [''], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'email': ['d@fluper.in'], 'country_code': ['91'], 'social_id': [''], 'device_token': ['a123b'], 'user_type': ['2'], 'login_type': ['1'], 'name': ['d'], 'mobile': ['1212124533'], 'password': ['123456ab'], 'device_type': ['2'], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'country_code': ['91'], 'garage_name': [''], 'password': ['123456ab'], 'login_type': ['1'], 'mobile': ['1212124533'], 'device_type': ['2'], 'user_type': ['2'], 'device_token': ['a123b'], 'email': ['d@fluper.in'], 'name': ['d']}>
+user registration api called
+<QueryDict: {'garage_name': [''], 'device_token': ['a123b'], 'social_id': [''], 'name': ['dd'], 'mobile': ['1212124523'], 'password': ['123456ab'], 'user_type': ['2'], 'email': ['dd@fluper.in'], 'device_type': ['2'], 'country_code': ['91'], 'login_type': ['1']}>
+user registration api called
+<QueryDict: {'garage_name': [''], 'device_token': ['a123b'], 'social_id': [''], 'name': ['ddd'], 'mobile': ['1212124522'], 'password': ['123456ab'], 'user_type': ['1'], 'email': ['ddd@fluper.in'], 'device_type': ['2'], 'country_code': ['91'], 'login_type': ['1']}>
+user registration api called
+<QueryDict: {'garage_name': [''], 'device_token': ['a123b'], 'social_id': ['123'], 'name': ['ddd'], 'mobile': [''], 'password': [''], 'user_type': ['1'], 'email': [''], 'device_type': ['2'], 'country_code': [''], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'garage_name': [''], 'device_token': ['a123b'], 'social_id': ['1234'], 'name': ['dd'], 'mobile': [''], 'password': [''], 'user_type': ['2'], 'email': [''], 'device_type': ['2'], 'country_code': [''], 'login_type': ['2']}>
+user registration api called
+<QueryDict: {'device_type': ['2'], 'country_code': [''], 'name': ['dd'], 'email': [''], 'login_type': ['2'], 'user_type': ['2'], 'garage_name': [''], 'mobile': [''], 'social_id': ['1abc1'], 'device_token': ['a123b'], 'password': ['']}>
+user registration api called
+<QueryDict: {'device_type': ['2'], 'country_code': [''], 'name': ['dd'], 'email': [''], 'login_type': ['2'], 'user_type': ['2'], 'garage_name': [''], 'mobile': [''], 'social_id': ['1abc1'], 'device_token': ['a123b'], 'password': ['']}>
+user registration api called
+<QueryDict: {'user_type': ['2'], 'country_code': [''], 'garage_name': [''], 'social_id': ['1abc1'], 'email': [''], 'login_type': ['2'], 'device_token': ['a123b'], 'password': [''], 'mobile': [''], 'name': ['dd'], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'user_type': ['2'], 'country_code': [''], 'garage_name': [''], 'social_id': ['123'], 'email': [''], 'login_type': ['2'], 'device_token': ['a123b'], 'password': [''], 'mobile': [''], 'name': ['dd'], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'device_token': ['a123b'], 'country_code': [''], 'mobile': [''], 'device_type': ['2'], 'name': ['dd'], 'login_type': ['2'], 'password': [''], 'email': [''], 'user_type': ['2'], 'social_id': ['123'], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'name': ['dd'], 'login_type': ['2'], 'mobile': [''], 'country_code': [''], 'user_type': ['2'], 'garage_name': [''], 'device_token': ['a123b'], 'social_id': ['123'], 'email': [''], 'password': [''], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'name': ['dd'], 'login_type': ['2'], 'mobile': [''], 'country_code': [''], 'user_type': ['2'], 'garage_name': [''], 'device_token': ['a123b'], 'social_id': ['1ab1'], 'email': [''], 'password': [''], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'name': ['dd'], 'login_type': ['2'], 'mobile': [''], 'country_code': [''], 'user_type': ['2'], 'garage_name': [''], 'device_token': ['a123b'], 'social_id': ['1ab1'], 'email': [''], 'password': [''], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'name': ['dd'], 'login_type': ['2'], 'mobile': [''], 'country_code': [''], 'user_type': ['2'], 'garage_name': [''], 'device_token': ['a123b'], 'social_id': ['1ab1'], 'email': [''], 'password': [''], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'password': [''], 'garage_name': [''], 'device_token': ['a123b'], 'mobile': [''], 'name': ['dd'], 'social_id': ['123'], 'user_type': ['2'], 'device_type': ['2'], 'login_type': ['2'], 'email': ['']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'user_type': ['2'], 'password': [''], 'name': ['dd'], 'mobile': [''], 'device_token': ['a123b'], 'device_type': ['2'], 'login_type': ['2'], 'social_id': ['123'], 'garage_name': [''], 'email': ['']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'user_type': ['1'], 'password': [''], 'name': ['dd'], 'mobile': [''], 'device_token': ['a123b'], 'device_type': ['2'], 'login_type': ['2'], 'social_id': ['123'], 'garage_name': [''], 'email': ['']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'user_type': ['1'], 'password': [''], 'name': ['dd'], 'mobile': [''], 'device_token': ['a123b'], 'device_type': ['2'], 'login_type': ['2'], 'social_id': ['1ab1'], 'garage_name': [''], 'email': ['']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'user_type': ['2'], 'password': [''], 'name': ['dd'], 'mobile': [''], 'device_token': ['a123b'], 'device_type': ['2'], 'login_type': ['2'], 'social_id': ['1ab1'], 'garage_name': [''], 'email': ['']}>
+user registration api called
+<QueryDict: {'country_code': [''], 'garage_name': [''], 'name': ['dd'], 'mobile': [''], 'user_type': ['2'], 'device_type': ['2'], 'login_type': ['2'], 'social_id': ['1ab1'], 'device_token': ['a123b'], 'email': [''], 'password': ['']}>
+user registration api called
+<QueryDict: {'country_code': ['91'], 'garage_name': [''], 'name': ['e'], 'mobile': ['1234568741'], 'user_type': ['2'], 'device_type': ['2'], 'login_type': ['1'], 'social_id': [''], 'device_token': ['a123b'], 'email': ['e@gmail.com'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'country_code': ['91'], 'garage_name': [''], 'name': ['e'], 'mobile': ['1234568741'], 'user_type': ['2'], 'device_type': ['2'], 'login_type': ['1'], 'social_id': [''], 'device_token': ['a123b'], 'email': ['e@gmail.com'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'country_code': ['91'], 'garage_name': [''], 'name': ['ee'], 'mobile': ['1234568742'], 'user_type': ['1'], 'device_type': ['2'], 'login_type': ['1'], 'social_id': [''], 'device_token': ['a123b'], 'email': ['ee@gmail.com'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'country_code': ['91'], 'garage_name': [''], 'name': ['ee'], 'mobile': ['1234568742'], 'user_type': ['1'], 'device_type': ['2'], 'login_type': ['1'], 'social_id': [''], 'device_token': ['a123b'], 'email': ['ee@gmail.com'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['e@fluper.in'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['e@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['ee@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['e@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['ee@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_type': ['1'], 'email': ['ee@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['ee@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'email': ['e@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_type': ['1'], 'email': ['e@gmail.com'], 'password': ['123456ab'], 'device_token': ['1']}>
+user registration api called
+<QueryDict: {'device_token': ['a123b'], 'garage_name': [''], 'email': ['g@gmail.com'], 'name': ['g'], 'login_type': ['1'], 'country_code': ['91'], 'device_type': ['2'], 'mobile': ['1234568743'], 'social_id': [''], 'user_type': ['1'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'device_token': ['1'], 'email': ['g@gmail.com'], 'user_type': ['1'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'device_token': ['a123b'], 'garage_name': [''], 'email': ['gg@gmail.com'], 'name': ['gg'], 'login_type': ['1'], 'country_code': ['91'], 'device_type': ['2'], 'mobile': ['1234568741'], 'social_id': [''], 'user_type': ['2'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'device_token': ['a123b'], 'garage_name': [''], 'email': ['gg@gmail.com'], 'name': ['gg'], 'login_type': ['1'], 'country_code': ['91'], 'device_type': ['2'], 'mobile': ['1234568740'], 'social_id': [''], 'user_type': ['2'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'device_token': ['1'], 'email': ['gg@gmail.com'], 'user_type': ['2'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'device_token': ['1'], 'email': ['gg@gmail.com'], 'user_type': ['2'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'mobile': ['1234568739'], 'email': ['h@gmail.com'], 'password': ['123456ab'], 'garage_name': [''], 'login_type': ['1'], 'country_code': ['91'], 'name': ['h'], 'device_type': ['2'], 'user_type': ['2'], 'device_token': ['a123b'], 'social_id': ['']}>
+user registration api called
+<QueryDict: {'email': ['h@gmail.com'], 'password': ['123456ab'], 'device_type': ['2'], 'login_type': ['1'], 'user_type': ['2'], 'device_token': ['a123b'], 'mobile': ['1234568739'], 'country_code': ['91'], 'name': ['h'], 'garage_name': [''], 'social_id': ['']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'user_type': ['2'], 'country_code': ['91'], 'email': ['h@gmail.com'], 'garage_name': [''], 'mobile': ['1234568739'], 'password': ['123456ab'], 'device_token': ['a123b'], 'name': ['h'], 'login_type': ['1'], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'user_type': ['2'], 'country_code': ['91'], 'email': ['i@gmail.com'], 'garage_name': [''], 'mobile': ['1234568739'], 'password': ['123456ab'], 'device_token': ['a123b'], 'name': ['i'], 'login_type': ['1'], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'user_type': ['2'], 'country_code': ['91'], 'email': ['i@gmail.com'], 'garage_name': [''], 'mobile': ['1234568730'], 'password': ['123456ab'], 'device_token': ['a123b'], 'name': ['i'], 'login_type': ['1'], 'device_type': ['2']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'password': ['123456ab'], 'country_code': ['91'], 'device_type': ['2'], 'social_id': [''], 'mobile': ['1234568740'], 'name': ['ii'], 'garage_name': [''], 'user_type': ['1'], 'email': ['ii@gmail.com'], 'device_token': ['a123b']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'password': ['123456ab'], 'country_code': ['91'], 'device_type': ['2'], 'social_id': [''], 'mobile': ['1234568771'], 'name': ['ii'], 'garage_name': [''], 'user_type': ['1'], 'email': ['ii@gmail.com'], 'device_token': ['a123b']}>
+user registration api called
+<QueryDict: {'login_type': ['2'], 'password': [''], 'country_code': [''], 'device_type': ['1'], 'social_id': ['x'], 'mobile': [''], 'name': ['iii'], 'garage_name': [''], 'user_type': ['1'], 'email': [''], 'device_token': ['x']}>
+user registration api called
+<QueryDict: {'login_type': ['2'], 'password': [''], 'country_code': [''], 'device_type': ['1'], 'social_id': ['xx'], 'mobile': [''], 'name': ['j'], 'garage_name': [''], 'user_type': ['2'], 'email': [''], 'device_token': ['x']}>
+user registration api called
+<QueryDict: {'login_type': ['2'], 'password': [''], 'country_code': [''], 'device_type': ['1'], 'social_id': ['xx'], 'mobile': [''], 'name': ['j'], 'garage_name': [''], 'user_type': ['2'], 'email': [''], 'device_token': ['x']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'device_type': ['1'], 'social_id': ['xx'], 'email': [''], 'login_type': ['2'], 'password': [''], 'garage_name': [''], 'user_type': ['2'], 'name': ['j'], 'country_code': [''], 'device_token': ['x']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'device_type': ['1'], 'social_id': ['xx'], 'email': [''], 'login_type': ['2'], 'password': [''], 'garage_name': [''], 'user_type': ['2'], 'name': ['j'], 'country_code': [''], 'device_token': ['x']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'device_type': ['1'], 'social_id': ['y'], 'email': [''], 'login_type': ['2'], 'password': [''], 'garage_name': [''], 'user_type': ['1'], 'name': ['jj'], 'country_code': [''], 'device_token': ['y']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'device_type': ['1'], 'social_id': ['y'], 'email': [''], 'login_type': ['2'], 'password': [''], 'garage_name': [''], 'user_type': ['1'], 'name': ['jj'], 'country_code': [''], 'device_token': ['y']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'user_type': ['2'], 'email': ['dd@gmail.com'], 'device_token': ['1'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'user_type': ['2'], 'email': ['dd@fluper.in'], 'device_token': ['1'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'email': ['dd@fluper.in'], 'password': ['123456ab'], 'device_token': ['1'], 'user_type': ['2'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'email': ['ddd@fluper.in'], 'password': ['123456ab'], 'device_token': ['1'], 'user_type': ['2'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'email': ['ddd@fluper.in'], 'password': ['123456ab'], 'device_token': ['1'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'email': ['ddd@fluper.in'], 'password': ['123456ab'], 'device_token': ['1'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'email': ['dd@fluper.in'], 'password': ['123456ab'], 'device_token': ['1'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'email': ['dd@fluper.in'], 'password': ['123456ab'], 'device_token': ['1'], 'user_type': ['2'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'email': ['dd@fluper.in'], 'device_token': ['1'], 'password': ['123456ab'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'email': ['ddd@fluper.in'], 'device_token': ['1'], 'password': ['123456ab'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'email': ['ddd@fluper.in'], 'device_token': ['1'], 'password': ['123456ab'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'mobile': ['1245874125'], 'device_token': ['y'], 'device_type': ['1'], 'user_type': ['1'], 'country_code': ['91'], 'email': ['k@gmail.com'], 'garage_name': [''], 'login_type': ['1'], 'name': ['k'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'email': [''], 'mobile': [''], 'password': [''], 'country_code': [''], 'user_type': ['1'], 'login_type': ['2'], 'device_type': ['1'], 'device_token': ['y'], 'social_id': ['y'], 'garage_name': [''], 'name': ['jj']}>
+user registration api called
+<QueryDict: {'garage_name': [''], 'login_type': ['2'], 'country_code': [''], 'device_token': ['y'], 'device_type': ['1'], 'email': [''], 'password': [''], 'mobile': [''], 'name': ['jj'], 'social_id': ['y'], 'user_type': ['1']}>
+user registration api called
+<QueryDict: {'user_type': ['1'], 'email': ['k@gmail.com'], 'device_type': ['1'], 'login_type': ['1'], 'social_id': [''], 'password': ['123456ab'], 'country_code': ['91'], 'device_token': ['y'], 'garage_name': [''], 'name': ['k'], 'mobile': ['1245874125']}>
+user registration api called
+<QueryDict: {'user_type': ['1'], 'email': ['kk@gmail.com'], 'device_type': ['1'], 'login_type': ['1'], 'social_id': [''], 'password': ['123456ab'], 'country_code': ['91'], 'device_token': ['y'], 'garage_name': [''], 'name': ['kk'], 'mobile': ['1245874126']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'email': ['kk@gmail.com'], 'garage_name': [''], 'device_type': ['1'], 'password': ['123456ab'], 'country_code': ['91'], 'device_token': ['y'], 'mobile': ['1245874126'], 'name': ['kk'], 'social_id': [''], 'user_type': ['1']}>
+user registration api called
+<QueryDict: {'login_type': ['1'], 'email': ['l@gmail.com'], 'garage_name': [''], 'device_type': ['1'], 'password': ['123456ab'], 'country_code': ['91'], 'device_token': ['y'], 'mobile': ['1245874122'], 'name': ['l'], 'social_id': [''], 'user_type': ['1']}>
+user registration api called
+<QueryDict: {'email': ['l@gmail.com'], 'name': ['l'], 'user_type': ['1'], 'password': ['123456ab'], 'device_type': ['1'], 'country_code': ['91'], 'mobile': ['1245874122'], 'social_id': [''], 'login_type': ['1'], 'garage_name': [''], 'device_token': ['y']}>
+user registration api called
+<QueryDict: {'email': ['ll@gmail.com'], 'name': ['ll'], 'user_type': ['1'], 'password': ['123456ab'], 'device_type': ['1'], 'country_code': ['91'], 'mobile': ['1245874123'], 'social_id': [''], 'login_type': ['1'], 'garage_name': [''], 'device_token': ['y']}>
+user registration api called
+<QueryDict: {'email': ['lll@gmail.com'], 'name': ['lll'], 'user_type': ['2'], 'password': ['123456ab'], 'device_type': ['1'], 'country_code': ['91'], 'mobile': ['1245874127'], 'social_id': [''], 'login_type': ['1'], 'garage_name': [''], 'device_token': ['y']}>
+otp verify post called
+<QueryDict: {'countrycode': ['91'], 'verification_code': ['1234'], 'phonenumber': ['8787632296']}>
+otp verify post called
+<QueryDict: {'verification_code': ['1234'], 'phonenumber': ['8787632296'], 'countrycode': ['91']}>
+otp verify post called
+<QueryDict: {'phonenumber': ['8787632296'], 'verification_code': ['1234'], 'countrycode': ['91']}>
+otp verify post called
+<QueryDict: {'countrycode': ['91'], 'phonenumber': ['8787632296'], 'verification_code': ['1234']}>
+otp verify post called
+<QueryDict: {'verification_code': ['1234'], 'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+otp verify post called
+<QueryDict: {'verification_code': ['1234'], 'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+otp verify post called
+<QueryDict: {'verification_code': ['1234'], 'countrycode': ['91'], 'phonenumber': ['1245874127']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'user_type': ['1'], 'password': ['123456ab'], 'device_token': ['1'], 'email': ['dd@fluper.in']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'user_type': ['2'], 'password': ['123456ab'], 'device_token': ['1'], 'email': ['dd@fluper.in']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['123456ab'], 'email': ['dd@fluper.in'], 'device_token': ['1'], 'user_type': ['2']}>
+service provider profile post called
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}], 'garage_detail': {'country_code': '+91', 'contact_person': 'Ravi', 'tax_registration_num': '123', 'tax_registration_date': '2018-05-22T08:51:46Z', 'lon': '77.3841085', 'is_owner': '1', 'state': 'Delhi', 'lat': '28.6104712', 'store_image3': '', 'name': 'Vikram', 'store_image2': '', 'contact_num': '8787524696', 'city': 'New Delhi', 'store_image1': '', 'location': ''}, 'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}, {'subtype': 'SubCategory2', 'icon': ''}], 'category_detail': [{'type': 'Category1', 'icon': ''}]}
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['123456ab'], 'email': ['dd@fluper.in'], 'device_token': ['1'], 'user_type': ['2']}>
+service provider profile post called
+{'garage_detail': {'lon': '77.3841085', 'contact_num': '8787524696', 'country_code': '+91', 'store_image2': '', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'state': 'Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'store_image1': '', 'city': 'New Delhi', 'location': '', 'store_image3': '', 'name': 'Vikram', 'tax_registration_num': '123'}, 'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}, {'subtype': 'SubCategory2', 'icon': ''}], 'schedule_detail': [{'start_time': '09:00', 'day': '1', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '2', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '3', 'end_time': '17:30'}, {'start_time': '09:00', 'day': '4', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '5', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '6', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '7', 'end_time': '17:00'}], 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+service provider profile post called
+{'garage_detail': {'store_image3': '', 'contact_person': 'Ravi', 'tax_registration_num': '123', 'contact_num': '8787524696', 'name': 'Vikram', 'lat': '28.6104712', 'country_code': '+91', 'tax_registration_date': '2018-05-22T08:51:46Z', 'store_image2': '', 'is_owner': '1', 'lon': '77.3841085', 'city': 'New Delhi', 'location': '', 'state': 'Delhi', 'store_image1': ''}, 'category_detail': [{'icon': '', 'type': 'Category1'}], 'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}, {'subtype': 'SubCategory2', 'icon': ''}], 'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}]}
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['dd@fluper.in'], 'user_type': ['2'], 'device_token': ['1'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['dd@fluper.in'], 'user_type': ['2'], 'device_token': ['1'], 'password': ['123456ab']}>
+otp send post called
+<QueryDict: {'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+0
+1
+2
+4
+otp send post called
+<QueryDict: {'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+0
+1
+2
+3
+service provider profile post called
+{'garage_detail': {'location': '', 'country_code': '+91', 'store_image2': '', 'state': 'Delhi', 'contact_person': 'Ravi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'name': 'Vikram', 'store_image3': '', 'is_owner': '1', 'lon': '77.3841085', 'tax_registration_num': '123', 'city': 'New Delhi', 'lat': '28.6104712', 'contact_num': '8787524696', 'store_image1': ''}, 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'category_detail': [{'icon': '', 'type': 'Category1'}], 'schedule_detail': [{'end_time': '14:00', 'start_time': '09:00', 'day': '1'}, {'end_time': '14:00', 'start_time': '09:00', 'day': '2'}, {'end_time': '17:30', 'start_time': '09:00', 'day': '3'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '4'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '5'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '6'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '7'}]}
+About us get called
+{}
+About us get called
+{}
+About us get called
+{}
+About us get called
+{}
+Faq get called
+{}
+About us get called
+{}
+user registration api called
+<QueryDict: {'mobile': ['2514785478'], 'device_token': ['y'], 'device_type': ['1'], 'user_type': ['2'], 'password': ['123456ab'], 'name': ['tt'], 'country_code': ['91'], 'login_type': ['1'], 'email': ['tt@gmail.com'], 'social_id': [''], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'mobile': ['2514785477'], 'device_token': ['y'], 'device_type': ['1'], 'user_type': ['1'], 'password': ['123456ab'], 'name': ['t'], 'country_code': ['91'], 'login_type': ['1'], 'email': ['t@gmail.com'], 'social_id': [''], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'mobile': ['2514785477'], 'device_token': ['y'], 'device_type': ['1'], 'user_type': ['1'], 'password': ['123456ab'], 'name': ['t'], 'country_code': ['91'], 'login_type': ['1'], 'email': ['t@gmail.com'], 'social_id': [''], 'garage_name': ['']}>
+user registration api called
+<QueryDict: {'mobile': ['2514785477'], 'device_token': ['y'], 'device_type': ['1'], 'user_type': ['1'], 'password': ['123456ab'], 'name': ['t'], 'country_code': ['91'], 'login_type': ['1'], 'email': ['t@gmail.com'], 'social_id': [''], 'garage_name': ['']}>
+service provider profile post called
+{'schedule_detail': [{'end_time': '14:00', 'day': '1', 'start_time': '09:00'}, {'end_time': '14:00', 'day': '2', 'start_time': '09:00'}, {'end_time': '17:30', 'day': '3', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '4', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '5', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '6', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '7', 'start_time': '09:00'}], 'garage_detail': {'city': 'New Delhi', 'store_image3': '', 'country_code': '+91', 'location': '', 'tax_registration_num': '123', 'name': 'Vikram', 'lon': '77.3841085', 'store_image1': '', 'state': 'Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_num': '8787524696', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image2': '', 'is_owner': '1'}, 'category_detail': [{'icon': '', 'type': 'Category1'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}]}
+User login post called
+<QueryDict: {'password': ['123456ab'], 'device_type': ['1'], 'email': ['t@gmail.com'], 'user_type': ['2'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['123456ab'], 'device_type': ['1'], 'email': ['t@gmail.com'], 'user_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'device_type': ['1'], 'email': ['t@gmail.com'], 'password': ['123456ab'], 'user_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'email': ['t@gmail.com'], 'password': ['123456ab'], 'device_type': ['1'], 'device_token': ['1']}>
+otp send post called
+<QueryDict: {'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+0
+1
+2
+3
+otp verify post called
+<QueryDict: {'verification_code': ['1431'], 'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+otp verify post called
+<QueryDict: {'verification_code': ['1234'], 'phonenumber': ['8787632296'], 'countrycode': ['91']}>
+otp verify post called
+<QueryDict: {'verification_code': ['1234'], 'countrycode': ['91'], 'phonenumber': ['8787632296']}>
+otp verify post called
+<QueryDict: {'countrycode': ['91'], 'phonenumber': ['8787632296'], 'verification_code': ['1234']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'device_token': ['1'], 'user_type': ['1'], 'password': ['123456ab'], 'email': ['t@gmail.com']}>
+service provider profile post called
+{'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'lat': '28.6104712', 'is_owner': '1', 'state': 'Delhi', 'location': '', 'store_image1': '', 'city': 'New Delhi', 'contact_num': '8787524696', 'country_code': '+91', 'contact_person': 'Ravi', 'lon': '77.3841085', 'store_image2': '', 'tax_registration_date': '2018-05-22T08:51:46Z', 'name': 'Vikram', 'tax_registration_num': '123', 'store_image3': ''}, 'schedule_detail': [{'end_time': '14:00', 'day': '1', 'start_time': '09:00'}, {'end_time': '14:00', 'day': '2', 'start_time': '09:00'}, {'end_time': '17:30', 'day': '3', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '4', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '5', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '6', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '7', 'start_time': '09:00'}], 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+user registration api called
+<QueryDict: {'password': ['123456ab'], 'name': ['z'], 'garage_name': [''], 'login_type': ['1'], 'user_type': ['2'], 'country_code': ['91'], 'mobile': ['2514785471'], 'device_type': ['1'], 'social_id': [''], 'email': ['z@gmail.com'], 'device_token': ['y']}>
+otp verify post called
+<QueryDict: {'phonenumber': ['2514785471'], 'verification_code': ['1234'], 'countrycode': ['91']}>
+service provider profile post called
+{'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'lat': '28.6104712', 'is_owner': '1', 'state': 'Delhi', 'location': '', 'store_image1': '', 'city': 'New Delhi', 'contact_num': '8787524696', 'country_code': '+91', 'contact_person': 'Ravi', 'lon': '77.3841085', 'store_image2': '', 'tax_registration_date': '2018-05-22T08:51:46Z', 'name': 'Vikram', 'tax_registration_num': '123', 'store_image3': ''}, 'schedule_detail': [{'end_time': '14:00', 'day': '1', 'start_time': '09:00'}, {'end_time': '14:00', 'day': '2', 'start_time': '09:00'}, {'end_time': '17:30', 'day': '3', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '4', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '5', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '6', 'start_time': '09:00'}, {'end_time': '17:00', 'day': '7', 'start_time': '09:00'}], 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1'], 'user_type': ['1'], 'email': ['rajiv@gmail.co']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1'], 'user_type': ['1'], 'email': ['rajiv78@gmail.com']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1'], 'user_type': ['1'], 'email': ['vikram@gmail.com']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1'], 'user_type': ['2'], 'email': ['vikram@gmail.com']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1'], 'user_type': ['2'], 'email': ['vikram@gmail.com']}>
+Notification get called
+{}
+User login post called
+<QueryDict: {'password': ['123456ab'], 'email': ['t@gmail.com'], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['sukamal.sinha@fluper.in'], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['123456ab'], 'email': ['sukamal.sinha@fluper.in'], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['123456ab'], 'email': ['vikram@gmail.com'], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['vikram@gmail.com'], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'email': ['vikram@gmail.com'], 'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1']}>
+Subscription plan list get called
+{}
+User login post called
+<QueryDict: {'device_type': ['1'], 'user_type': ['2'], 'email': ['vikram@gmail.com'], 'device_token': ['1'], 'password': ['12345678']}>
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['12345678'], 'email': ['vikram@gmail.com']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['12345678'], 'email': ['vikram@gmail.com']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['12345678'], 'email': ['amit@gmail.com']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['11111111'], 'email': ['amit@gmail.com']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['87654321'], 'email': ['amit@gmail.com']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['87654321'], 'email': ['amit@gmail.com']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'password': [''], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['y'], 'email': [''], 'login_type': ['2'], 'garage_name': [''], 'country_code': [''], 'mobile': [''], 'name': ['55']}>
+user registration api called
+<QueryDict: {'social_id': ['11111'], 'password': [''], 'user_type': ['1'], 'device_type': ['1'], 'device_token': ['y'], 'email': [''], 'login_type': ['2'], 'garage_name': [''], 'country_code': [''], 'mobile': [''], 'name': ['55']}>
+user registration api called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'device_token': ['y'], 'mobile': [''], 'country_code': [''], 'login_type': ['2'], 'name': ['55'], 'password': [''], 'social_id': ['11111'], 'garage_name': [''], 'email': ['']}>
+user registration api called
+<QueryDict: {'device_token': ['y'], 'user_type': ['1'], 'login_type': ['2'], 'country_code': [''], 'social_id': ['11111'], 'garage_name': [''], 'password': [''], 'device_type': ['1'], 'mobile': [''], 'email': [''], 'name': ['55']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'email': [''], 'device_token': ['y'], 'user_type': ['1'], 'password': [''], 'name': ['55'], 'garage_name': [''], 'country_code': [''], 'social_id': ['11111'], 'login_type': ['2'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'email': [''], 'device_token': ['y'], 'user_type': ['1'], 'password': [''], 'name': ['55'], 'garage_name': [''], 'country_code': [''], 'social_id': ['11111'], 'login_type': ['2'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'email': [''], 'device_token': ['y'], 'user_type': ['1'], 'password': [''], 'name': ['55'], 'garage_name': [''], 'country_code': [''], 'social_id': ['11111'], 'login_type': ['2'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'email': [''], 'device_token': ['y'], 'user_type': ['2'], 'password': [''], 'name': ['555'], 'garage_name': [''], 'country_code': [''], 'social_id': ['1111'], 'login_type': ['2'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'mobile': [''], 'email': [''], 'device_token': ['y'], 'user_type': ['2'], 'password': [''], 'name': ['555'], 'garage_name': [''], 'country_code': [''], 'social_id': ['1111'], 'login_type': ['2'], 'device_type': ['1']}>
+service provider profile post called
+{'category_detail': [{'icon': '', 'type': 'Category1'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'is_owner': '1', 'tax_registration_num': '123', 'store_image2': '', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_num': '8787524696', 'country_code': '+91', 'location': '', 'store_image1': '', 'store_image3': '', 'state': 'Delhi', 'contact_person': 'Ravi', 'name': 'Vikram', 'lon': '77.3841085', 'city': 'New Delhi', 'lat': '28.6104712'}, 'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}]}
+user registration api called
+<QueryDict: {'mobile': [''], 'email': [''], 'device_token': ['y'], 'user_type': ['2'], 'password': [''], 'name': ['555'], 'garage_name': [''], 'country_code': [''], 'social_id': ['1111'], 'login_type': ['2'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'social_id': ['1111'], 'garage_name': [''], 'email': [''], 'name': ['555'], 'mobile': [''], 'device_token': ['y'], 'password': [''], 'login_type': ['2'], 'device_type': ['1'], 'user_type': ['2'], 'country_code': ['']}>
+user registration api called
+<QueryDict: {'social_id': ['1111'], 'garage_name': [''], 'email': [''], 'name': ['555'], 'mobile': [''], 'device_token': ['y'], 'password': [''], 'login_type': ['2'], 'device_type': ['1'], 'user_type': ['2'], 'country_code': ['']}>
+user registration api called
+<QueryDict: {'social_id': ['1111'], 'garage_name': [''], 'email': [''], 'name': ['555'], 'mobile': [''], 'device_token': ['y'], 'password': [''], 'login_type': ['2'], 'device_type': ['1'], 'user_type': ['2'], 'country_code': ['']}>
+user registration api called
+<QueryDict: {'social_id': ['1111'], 'garage_name': [''], 'email': [''], 'name': ['555'], 'mobile': [''], 'device_token': ['y'], 'password': [''], 'login_type': ['2'], 'device_type': ['1'], 'user_type': ['2'], 'country_code': ['']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'garage_name': [''], 'email': ['5@gmail.com'], 'name': ['5'], 'mobile': ['2514785414'], 'device_token': ['y'], 'password': ['123456ab'], 'login_type': ['1'], 'device_type': ['1'], 'user_type': ['2'], 'country_code': ['91']}>
+service provider profile post called
+{'schedule_detail': [{'start_time': '09:00', 'day': '1', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '2', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '3', 'end_time': '17:30'}, {'start_time': '09:00', 'day': '4', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '5', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '6', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '7', 'end_time': '17:00'}], 'garage_detail': {'store_image3': '', 'state': 'Delhi', 'contact_num': '8787524696', 'city': 'New Delhi', 'is_owner': '1', 'store_image1': '', 'lon': '77.3841085', 'location': '', 'name': 'Vikram', 'contact_person': 'Ravi', 'store_image2': '', 'lat': '28.6104712', 'country_code': '+91', 'tax_registration_date': '2018-05-22T08:51:46Z', 'tax_registration_num': '123'}, 'category_detail': [{'icon': '', 'type': 'Category1'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}]}
+user registration api called
+<QueryDict: {'social_id': [''], 'garage_name': [''], 'email': ['5@gmail.com'], 'name': ['5'], 'mobile': ['2514785414'], 'device_token': ['y'], 'password': ['123456ab'], 'login_type': ['1'], 'device_type': ['1'], 'user_type': ['2'], 'country_code': ['91']}>
+User login post called
+<QueryDict: {'password': ['123456ab'], 'user_type': ['2'], 'email': ['5@gmail.com'], 'device_type': ['1'], 'device_token': ['1']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['vikram@gmail.com'], 'device_token': ['1'], 'password': ['12345678'], 'user_type': ['2']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['vikram@gmail.com'], 'device_token': ['1'], 'password': ['12345678'], 'user_type': ['2']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['vikram@gmail.com'], 'device_token': ['1'], 'password': ['12345678'], 'user_type': ['2']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['vikram@gmail.com'], 'device_token': ['1'], 'password': ['12345678'], 'user_type': ['2']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'user_type': ['2'], 'email': ['vikram@gmail.com'], 'device_token': ['1'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'email': ['zz@gmail.com'], 'garage_name': [''], 'login_type': ['1'], 'device_token': ['y'], 'user_type': ['1'], 'social_id': [''], 'country_code': ['91'], 'mobile': ['2514785414'], 'name': ['zz'], 'password': ['123456ab'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'email': ['zz@gmail.com'], 'garage_name': [''], 'login_type': ['1'], 'device_token': ['y'], 'user_type': ['1'], 'social_id': [''], 'country_code': ['91'], 'mobile': ['2514785424'], 'name': ['zz'], 'password': ['123456ab'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'email': ['z@gmail.com'], 'garage_name': [''], 'name': ['z'], 'device_type': ['1'], 'device_token': ['y'], 'country_code': ['91'], 'password': ['123456ab'], 'user_type': ['1'], 'login_type': ['1'], 'mobile': ['3514785424']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'email': ['z1@gmail.com'], 'garage_name': [''], 'name': ['z'], 'device_type': ['1'], 'device_token': ['y'], 'country_code': ['91'], 'password': ['123456ab'], 'user_type': ['1'], 'login_type': ['1'], 'mobile': ['3514785424']}>
+user registration api called
+<QueryDict: {'social_id': [''], 'email': ['z1@gmail.com'], 'garage_name': [''], 'name': ['z'], 'device_type': ['1'], 'device_token': ['y'], 'country_code': ['91'], 'password': ['123456ab'], 'user_type': ['1'], 'login_type': ['1'], 'mobile': ['3514785424']}>
+User login post called
+<QueryDict: {'password': ['123456ab'], 'user_type': ['1'], 'email': ['z1@gmail.com'], 'device_token': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'password': ['123456ab'], 'device_token': ['1'], 'email': ['z1@gmail.com'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'password': ['123456ab'], 'device_token': ['1'], 'email': ['z1@gmail.com'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'password': ['123456ab'], 'login_type': ['1'], 'name': ['z'], 'email': ['z1@gmail.com'], 'mobile': ['3514785424'], 'user_type': ['1'], 'device_token': ['y'], 'country_code': ['91'], 'device_type': ['1'], 'social_id': [''], 'garage_name': ['']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'password': ['123456ab'], 'device_token': ['1'], 'email': ['z1@gmail.com'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'password': ['123456ab'], 'device_token': ['1'], 'email': ['z1@gmail.com'], 'device_type': ['1']}>
+user registration api called
+<QueryDict: {'password': [''], 'login_type': ['2'], 'name': ['z12'], 'email': [''], 'mobile': [''], 'user_type': ['1'], 'device_token': ['y'], 'country_code': [''], 'device_type': ['1'], 'social_id': ['1212'], 'garage_name': ['']}>
+User login post called
+<QueryDict: {'user_type': ['2'], 'password': ['123456ab'], 'device_token': ['1'], 'device_type': ['1'], 'email': ['z1@gmail.com']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'password': ['123456ab'], 'device_token': ['1'], 'device_type': ['1'], 'email': ['z1@gmail.com']}>
+service type list get called
+{}
+user registration api called
+<QueryDict: {'user_type': ['1'], 'name': ['33'], 'country_code': ['91'], 'login_type': ['1'], 'mobile': ['3514785405'], 'device_type': ['1'], 'email': ['33@gmail.com'], 'social_id': [''], 'garage_name': [''], 'device_token': ['y'], 'password': ['123456ab']}>
+user registration api called
+<QueryDict: {'user_type': ['1'], 'name': ['33'], 'country_code': ['91'], 'login_type': ['1'], 'mobile': ['3514785405'], 'device_type': ['1'], 'email': ['33@gmail.com'], 'social_id': [''], 'garage_name': [''], 'device_token': ['y'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'email': ['33@gmail.com'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['123456ab'], 'user_type': ['1']}>
+User login post called
+<QueryDict: {'email': ['33@gmail.com'], 'device_type': ['1'], 'device_token': ['1'], 'password': ['123456ab'], 'user_type': ['2']}>
+user registration api called
+<QueryDict: {'device_token': ['y'], 'password': ['123456ab'], 'name': ['55'], 'country_code': ['91'], 'device_type': ['1'], 'garage_name': [''], 'user_type': ['1'], 'email': ['55@gmail.com'], 'mobile': ['3514785406'], 'login_type': ['1'], 'social_id': ['']}>
+user registration api called
+<QueryDict: {'device_token': ['y'], 'password': ['123456ab'], 'name': ['556'], 'country_code': ['91'], 'device_type': ['1'], 'garage_name': [''], 'user_type': ['2'], 'email': ['556@gmail.com'], 'mobile': ['3514785407'], 'login_type': ['1'], 'social_id': ['']}>
+service type list get called
+{}
+User login post called
+<QueryDict: {'device_token': ['1'], 'password': ['123456ab'], 'email': ['55@gmail.com'], 'device_type': ['1'], 'user_type': ['2']}>
+user registration api called
+<QueryDict: {'user_type': ['1'], 'social_id': [''], 'name': ['665'], 'email': ['665@gmail.com'], 'login_type': ['1'], 'country_code': ['91'], 'garage_name': [''], 'password': ['123456ab'], 'device_type': ['1'], 'mobile': ['3514785408'], 'device_token': ['y']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'device_type': ['1'], 'password': ['123456ab'], 'email': ['665@gmail.com'], 'user_type': ['2']}>
+User login post called
+<QueryDict: {'device_token': ['1'], 'password': ['123456ab'], 'email': ['665@gmail.com'], 'device_type': ['1'], 'user_type': ['2']}>
+User login post called
+<QueryDict: {'password': ['123456ab'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1'], 'email': ['665@gmail.com']}>
+user registration api called
+<QueryDict: {'name': ['6655'], 'password': [''], 'country_code': [''], 'mobile': [''], 'social_id': ['12457'], 'user_type': ['1'], 'garage_name': [''], 'device_token': ['y'], 'email': ['6655@gmail.com'], 'device_type': ['1'], 'login_type': ['3']}>
+Password reset post called
+<QueryDict: {'email': ['6655@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['6655@gmail.com']}>
+Password reset post called
+<QueryDict: {'email': ['6655@gmail.com']}>
+otp send post called
+<QueryDict: {'phonenumber': ['8923749977'], 'countrycode': ['91']}>
+0
+1
+User login post called
+<QueryDict: {'email': ['665@gmail.com'], 'user_type': ['2'], 'device_type': ['1'], 'password': ['123456ab'], 'device_token': ['1']}>
+service provider profile post called
+{'garage_detail': {'store_image1': '', 'lat': '28.6104712', 'contact_person': 'Ravi', 'lon': '77.3841085', 'tax_registration_date': '2018-05-22T08:51:46Z', 'tax_registration_num': '123', 'is_owner': '1', 'state': 'Delhi', 'country_code': '+91', 'name': 'Vikram', 'store_image3': '', 'store_image2': '', 'contact_num': '8787524696', 'location': '', 'city': 'New Delhi'}, 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'schedule_detail': [{'start_time': '09:00', 'day': '1', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '2', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '3', 'end_time': '17:30'}, {'start_time': '09:00', 'day': '4', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '5', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '6', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '7', 'end_time': '17:00'}], 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+User login post called
+<QueryDict: {'email': ['665@gmail.com'], 'user_type': ['2'], 'device_type': ['1'], 'password': ['123456ab'], 'device_token': ['1']}>
+service provider profile get called
+{}
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'tax_registration_num': '123', 'store_image1': '', 'country_code': '+91', 'location': '', 'store_image2': '', 'name': 'Vikram', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image3': '', 'contact_num': '8787524696', 'city': 'New Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'lon': '77.3841085', 'state': 'Delhi'}, 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'tax_registration_num': '123', 'store_image1': '', 'country_code': '+91', 'location': '', 'store_image2': '', 'name': 'Sukamal4', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image3': '', 'contact_num': '8787524696', 'city': 'New Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'lon': '77.3841085', 'state': 'Delhi'}, 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+service provider profile post called
+{'subcategory_detail': [{'subtype': 'Sub Category 2', 'icon': ''}], 'schedule_detail': [{'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}], 'garage_detail': {'tax_registration_num': '123', 'store_image1': '', 'country_code': '+91', 'location': 'noida', 'store_image2': '', 'name': 'Vikram', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image3': '', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_num': '123654789', 'city': 'noida', 'lon': '77.3841085', 'state': 'up'}, 'category_detail': [{'icon': '', 'type': 'Category 3'}]}
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'tax_registration_num': '123', 'store_image1': '', 'country_code': '+91', 'location': '', 'store_image2': '', 'name': 'Sukamal4', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image3': '', 'contact_num': '8787524696', 'city': 'New Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'lon': '77.3841085', 'state': 'Delhi'}, 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '2', 'end_time': '14:00', 'start_time': '09:00'}, {'day': '3', 'end_time': '17:30', 'start_time': '09:00'}, {'day': '4', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '5', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '6', 'end_time': '17:00', 'start_time': '09:00'}, {'day': '7', 'end_time': '17:00', 'start_time': '09:00'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'tax_registration_num': '123', 'store_image1': '', 'country_code': '+91', 'location': '', 'store_image2': '', 'name': 'Sukamal4', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image3': '', 'contact_num': '8787524696', 'city': 'New Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'lon': '77.3841085', 'state': 'Delhi'}, 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+service provider profile post called
+{'subcategory_detail': [{'subtype': 'Sub Category 2', 'icon': ''}], 'schedule_detail': [{'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}], 'garage_detail': {'tax_registration_num': '123', 'store_image1': '', 'country_code': '+91', 'location': 'noida', 'store_image2': '', 'name': 'Vikram', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image3': '', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_num': '123654789', 'city': 'noida', 'lon': '77.3841085', 'state': 'up'}, 'category_detail': [{'icon': '', 'type': 'Category 3'}]}
+service provider profile post called
+{'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}], 'schedule_detail': [{'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}, {'day': '1', 'end_time': '16:00', 'start_time': '15:00'}], 'garage_detail': {'tax_registration_num': '123', 'store_image1': '', 'country_code': '+91', 'location': 'noida', 'store_image2': '', 'name': 'Vikram', 'is_owner': '1', 'lat': '28.6104712', 'contact_person': 'Ravi', 'store_image3': '', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_num': '123654789', 'city': 'noida', 'lon': '77.3841085', 'state': 'up'}, 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+User login post called
+<QueryDict: {'device_token': ['1'], 'device_type': ['1'], 'email': ['665@gmail.com'], 'user_type': ['2'], 'password': ['123456ab']}>
+popular category search list called
+{}
+popular category search list called
+{}
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['123456ab'], 'email': ['665@gmail.com'], 'user_type': ['2'], 'device_token': ['1']}>
+all offer list get called
+{}
+all offer list get called
+{}
+all offer list get called
+{}
+all offer list get called
+{}
+all offer list get called
+{}
+all offer list get called
+{}
+all offer list get called
+{}
+service provider profile post called
+{'schedule_detail': [{'end_time': '14:00', 'start_time': '09:00', 'day': '1'}, {'end_time': '14:00', 'start_time': '09:00', 'day': '2'}, {'end_time': '17:30', 'start_time': '09:00', 'day': '3'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '4'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '5'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '6'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '7'}], 'garage_detail': {'location': '', 'country_code': '+91', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'contact_person': 'Ravi', 'lon': '77.3841085', 'lat': '28.6104712', 'tax_registration_num': '123', 'state': 'Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_num': '8787524696', 'name': 'Vikram', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'is_owner': '1', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'city': 'New Delhi'}, 'category_detail': [{'icon': '', 'type': 'Category1'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}]}
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'start_time': '09:00', 'end_time': '14:00'}, {'day': '2', 'start_time': '09:00', 'end_time': '14:00'}, {'day': '3', 'start_time': '09:00', 'end_time': '17:30'}, {'day': '4', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '5', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '6', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '7', 'start_time': '09:00', 'end_time': '17:00'}], 'garage_detail': {'tax_registration_date': '2018-05-22T08:51:46Z', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'is_owner': '1', 'country_code': '+91', 'lon': '77.3841085', 'lat': '28.6104712', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'contact_num': '8787524696', 'state': 'Delhi', 'tax_registration_num': '123', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'location': '', 'contact_person': 'Ravi', 'city': 'New Delhi', 'name': 'Vikram'}, 'category_detail': [{'icon': '', 'type': 'Category1'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}]}
+User login post called
+<QueryDict: {'device_type': ['1'], 'email': ['665@gmail.com'], 'password': ['123456ab'], 'user_type': ['2'], 'device_token': ['1']}>
+service provider profile get called
+{}
+service provider profile post called
+{'schedule_detail': [{'day': '1', 'start_time': '09:00', 'end_time': '14:00'}, {'day': '2', 'start_time': '09:00', 'end_time': '14:00'}, {'day': '3', 'start_time': '09:00', 'end_time': '17:30'}, {'day': '4', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '5', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '6', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '7', 'start_time': '09:00', 'end_time': '17:00'}], 'garage_detail': {'tax_registration_date': '2018-05-22T08:51:46Z', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'is_owner': '1', 'country_code': '+91', 'lon': '77.3841085', 'lat': '28.6104712', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'contact_num': '8787524696', 'state': 'Delhi', 'tax_registration_num': '123', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'location': '', 'contact_person': 'Ravi', 'city': 'New Delhi', 'name': 'wqeqwe'}, 'category_detail': [{'icon': '', 'type': 'Category1'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}]}
+service provider profile get called
+{}
+service provider profile post called
+{'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}, {'subtype': 'SubCategory2', 'icon': ''}], 'garage_detail': {'tax_registration_date': '2018-05-22T08:51:46Z', 'contact_num': '8787524696', 'city': 'New Delhi', 'contact_person': 'Ravi', 'location': '', 'name': 'www', 'is_owner': '1', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'country_code': '+91', 'tax_registration_num': '123', 'state': 'Delhi', 'lon': '77.3841085', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'lat': '28.6104712', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png'}, 'category_detail': [{'type': 'Category1', 'icon': ''}], 'schedule_detail': [{'day': '1', 'start_time': '09:00', 'end_time': '14:00'}, {'day': '2', 'start_time': '09:00', 'end_time': '14:00'}, {'day': '3', 'start_time': '09:00', 'end_time': '17:30'}, {'day': '4', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '5', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '6', 'start_time': '09:00', 'end_time': '17:00'}, {'day': '7', 'start_time': '09:00', 'end_time': '17:00'}]}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+service provider profile get called
+{}
+User login post called
+<QueryDict: {'email': ['665@gmail.com'], 'device_type': ['1'], 'device_token': ['1'], 'user_type': ['2'], 'password': ['123456ab']}>
+User login post called
+<QueryDict: {'email': ['665@gmail.com'], 'password': ['123456ab'], 'user_type': ['2'], 'device_type': ['1'], 'device_token': ['1']}>
+service provider profile get called
+{}
+service provider profile post called
+{'garage_detail': {'tax_registration_date': '2018-05-22T08:51:46Z', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'country_code': '+91', 'state': 'Delhi', 'contact_num': '8787524696', 'contact_person': 'Ravi', 'lat': '28.6104712', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'name': 'www', 'is_owner': '1', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'location': '', 'city': 'New Delhi', 'lon': '77.3841085', 'tax_registration_num': '123'}, 'schedule_detail': [{'start_time': '09:00', 'day': '1', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '2', 'end_time': '14:00'}, {'start_time': '09:00', 'day': '3', 'end_time': '17:30'}, {'start_time': '09:00', 'day': '4', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '5', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '6', 'end_time': '17:00'}, {'start_time': '09:00', 'day': '7', 'end_time': '17:00'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'category_detail': [{'icon': '', 'type': 'Category1'}]}
+service provider profile post called
+{'schedule_detail': [{'start_time': '09:00', 'end_time': '14:00', 'day': '1'}, {'start_time': '09:00', 'end_time': '14:00', 'day': '2'}, {'start_time': '09:00', 'end_time': '17:30', 'day': '3'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '4'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '5'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '6'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '7'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'category_detail': [{'type': 'Category1', 'icon': ''}], 'garage_detail': {'lat': '28.6104712', 'contact_person': 'Ravi', 'country_code': '+91', 'is_owner': '1', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'contact_num': '8787524696', 'name': 'www', 'lon': '77.3841085', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'location': '', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'tax_registration_num': '123', 'state': 'Delhi', 'city': 'New Delhi', 'tax_registration_date': '2018-05-22T08:51:46Z'}}
+service provider profile post called
+{'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'category_detail': [{'type': 'Category1', 'icon': ''}], 'schedule_detail': [{'start_time': '09:00', 'end_time': '14:00', 'day': '1'}, {'start_time': '09:00', 'end_time': '14:00', 'day': '2'}, {'start_time': '09:00', 'end_time': '17:30', 'day': '3'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '4'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '5'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '6'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '7'}], 'garage_detail': {'tax_registration_num': '123', 'name': 'www', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'country_code': '+91', 'lon': '77.3841085', 'is_owner': '1', 'tax_registration_date': '2018-05-22T08:51:46Z', 'state': 'Delhi', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'lat': '28.6104712', 'city': 'New Delhi', 'contact_person': 'Ravi', 'location': '', 'contact_num': '8787524696'}}
+service provider profile post called
+{'subcategory_detail': [{'subtype': 'SubCategory1', 'icon': ''}, {'subtype': 'SubCategory2', 'icon': ''}], 'garage_detail': {'contact_person': 'Ravi', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'location': '', 'country_code': '+91', 'state': 'Delhi', 'lat': '28.6104712', 'tax_registration_date': '2018-05-22T08:51:46Z', 'is_owner': '1', 'contact_num': '8787524696', 'lon': '77.3841085', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'tax_registration_num': '123', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'city': 'New Delhi', 'name': 'www'}, 'category_detail': [{'icon': '', 'type': 'Category1'}], 'schedule_detail': [{'start_time': '09:00', 'end_time': '14:00', 'day': '1'}, {'start_time': '09:00', 'end_time': '14:00', 'day': '2'}, {'start_time': '09:00', 'end_time': '17:30', 'day': '3'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '4'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '5'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '6'}, {'start_time': '09:00', 'end_time': '17:00', 'day': '7'}]}
+service provider profile post called
+{'schedule_detail': [{'end_time': '14:00', 'start_time': '09:00', 'day': '1'}, {'end_time': '14:00', 'start_time': '09:00', 'day': '2'}, {'end_time': '17:30', 'start_time': '09:00', 'day': '3'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '4'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '5'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '6'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '7'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'garage_detail': {'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'lat': '28.6104712', 'is_owner': '1', 'location': '', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'country_code': '+91', 'name': 'www', 'state': 'Delhi', 'city': 'New Delhi', 'contact_num': '8787524696', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'contact_person': 'Ravi', 'tax_registration_date': '2018-05-22T08:51:46Z', 'tax_registration_num': '123', 'lon': '77.3841085'}, 'category_detail': [{'type': 'Category1', 'icon': ''}]}
+service provider profile post called
+{'schedule_detail': [{'end_time': '14:00', 'start_time': '09:00', 'day': '1'}, {'end_time': '14:00', 'start_time': '09:00', 'day': '2'}, {'end_time': '17:30', 'start_time': '09:00', 'day': '3'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '4'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '5'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '6'}, {'end_time': '17:00', 'start_time': '09:00', 'day': '7'}], 'subcategory_detail': [{'icon': '', 'subtype': 'SubCategory1'}, {'icon': '', 'subtype': 'SubCategory2'}], 'category_detail': [{'icon': '', 'type': 'Category1'}], 'garage_detail': {'contact_person': 'Ravi', 'contact_num': '8787524696', 'store_image1': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'lon': '77.3841085', 'store_image3': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'lat': '28.6104712', 'tax_registration_date': '2018-05-22T08:51:46Z', 'tax_registration_num': '123', 'city': 'New Delhi', 'state': 'Delhi', 'is_owner': '1', 'name': 'www', 'country_code': '+91', 'store_image2': 'http://localhost:8000/media/serviceprovider/temp/1_TWYtBYa.png', 'location': ''}}
+User login post called
+<QueryDict: {'email': ['665@gmail.com'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1'], 'password': ['123456ab']}>
+service subtype get called
+{}

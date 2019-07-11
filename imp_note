@@ -1,0 +1,21 @@
+ssh car@ec2-18-188-184-119.compute-1.amazonaws.com
+Carmension Server Credentials
+ip= 18.188.184.119 
+User-car     
+Car_Fluper_pass
+
+ssh car@18.188.184.119
+
+SHA256:G2nqwogKOqqmu6pIms1RxUW2B1zv6+Y9pDCsb90l38Q.
+
+sudo systemctl daemon-reload
+sudo systemctl restart gunicorn
+sudo nginx -t && sudo systemctl restart nginx
+
+superuser
+---------
+fluper
+fluper@123
+
+
+
